@@ -35,3 +35,17 @@ Version: 0.1
        justify-content: space-evenly;
        list-style: none;
    }
+
+   h1, h4, p{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+   li{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }

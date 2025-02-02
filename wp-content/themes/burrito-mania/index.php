@@ -30,8 +30,15 @@
                 the_title()
                 ?>
             </h4>
+
+
             <p><i><?php the_author() ?></i> (<?php the_date() ?>)</p>
             <p><?php the_excerpt() ?></p>
+
+            <li>Bean</li>
+            <li>Tortilla</li>
+            <li>Cheese</li>
+
 
     <?php
         endwhile;
